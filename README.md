@@ -38,7 +38,7 @@ Make sure your $GOPATH/bin is in your system's PATH.
 
 ### 💾 Save content to a file
 ```bash
-./getfromurl -file output.html checkcontent https://example.com
+./getfromurl checkcontent https://example.com -file output.html
 ```
 
 ## 📁 Project structure
